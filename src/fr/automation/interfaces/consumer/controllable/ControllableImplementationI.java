@@ -1,4 +1,4 @@
-package fr.automation.components.interfaces.consumer.controllable;
+package fr.automation.interfaces.consumer.controllable;
 
 /**
  * Every controlable devices will require these methods

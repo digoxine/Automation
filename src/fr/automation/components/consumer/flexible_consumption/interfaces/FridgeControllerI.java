@@ -1,6 +1,6 @@
 package fr.automation.components.consumer.flexible_consumption.interfaces;
 
-import fr.automation.components.interfaces.consumer.controllable.FridgeManagementControllerImplementationI;
+import fr.automation.interfaces.consumer.controllable.FridgeManagementControllerImplementationI;
 import fr.sorbonne_u.components.interfaces.OfferedCI;
 
 /**

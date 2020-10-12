@@ -1,4 +1,4 @@
-package fr.automation.components.interfaces.consumer.controllable;
+package fr.automation.interfaces.consumer.controllable;
 
 import fr.automation.beans.LevelFan;
 
